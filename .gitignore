@@ -1,7 +1,7 @@
 __pycache__
 *.pyc
-.env
 node_modules
 dist
 context.md
 opencode.json
+config.bat
