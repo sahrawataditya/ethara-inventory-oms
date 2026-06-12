@@ -25,8 +25,6 @@ cd ethara-inventory-oms
 docker compose up --build
 ```
 
-Visit **http://localhost** — seed data (10 products, 3 customers, 2 orders) is loaded automatically.
-
 ### Option 2: Docker Hub single image
 
 ```bash
