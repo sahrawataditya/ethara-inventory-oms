@@ -145,5 +145,4 @@ Connected to the GitHub repo — auto-deploys from `backend/` directory.
 https://ethara-inventory-backend-le4p.onrender.com
 
 ### Frontend (Vercel)
-Connect `frontend/` as a separate project on Vercel.
-Set `VITE_API_URL` env var to the Render backend URL.
+https://ethara-inventory-two.vercel.app
